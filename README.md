@@ -2,6 +2,13 @@
 
 後端面試前測題
 
+## Rules
+
+- 作答時間為 1 小時
+- clone 此專案，並以新建立的 branch 進行作答。
+- 繳交方式：以個人帳號建立 repository，在收到題目 3 天內將 repository URL 寄回
+- 針對題目若有任何疑問，也可以來信詢問
+
 ## Questions
 
 ### 簡介
